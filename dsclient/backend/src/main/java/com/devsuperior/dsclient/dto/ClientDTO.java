@@ -32,7 +32,7 @@ public class ClientDTO implements Serializable {
 		this.name = entity.getName();
 		this.cpf = entity.getCpf();
 		this.income = entity.getIncome();
-		this.brithDate = entity.getBirthDate();
+		this.brithDate = entity.getBrithDate();
 		this.children = entity.getChildren();
 	}
 
